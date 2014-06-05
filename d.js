@@ -10,3 +10,7 @@
   
   </ul>
 </script>
+<div class="carousel"> 
+
+
+</div>
