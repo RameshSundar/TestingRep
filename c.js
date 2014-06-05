@@ -26,3 +26,6 @@
 
 </div>
 
+<div class="row"> 
+<img src="abc.jpg"></div>
+</div>
