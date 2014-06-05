@@ -3,5 +3,10 @@
 </script>
 
 <script id="Sidebartemplate" type="text/x-handlebars-template">
-  template content
+  <ul>
+  <li>HTML</li>
+  <li>Bootstrap</li>
+  <li>CSS</li>
+  
+  </ul>
 </script>
